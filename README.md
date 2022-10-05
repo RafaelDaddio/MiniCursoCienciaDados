@@ -1,1 +1,1 @@
-# MiniCursoCienciaDados
+# Mini Curso - Ciência de Dados
